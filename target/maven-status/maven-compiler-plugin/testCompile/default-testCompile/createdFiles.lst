@@ -1,0 +1,6 @@
+com\CRM\TestCases\HomePageTestCase.class
+com\CRM\TestCases\LoginPageTestCase.class
+com\CRM\pages\LoginPage.class
+com\CRM\pages\HomePage.class
+com\CRM\TestCases\BaseClass.class
+com\CRM\TestCases\AssertionTest.class
